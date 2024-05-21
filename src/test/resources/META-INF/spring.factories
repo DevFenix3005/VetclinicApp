@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.rebirth.\
+    vetclinic.config.TestContainersSpringContextCustomizerFactory,com.rebirth.\
+    vetclinic.config.KafkaTestContainersSpringContextCustomizerFactory
